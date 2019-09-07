@@ -1,2 +1,2 @@
 
-[Team 3's Contract](files/Team Contract.pdf"Team Contract PDF")
+[Team 3's Contract](Team Contract.pdf "Team Contract PDF")
